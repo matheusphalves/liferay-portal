@@ -1,0 +1,23 @@
+{
+	"object-entries": [
+		{
+			"abbreviation": "Abbreviation Test 1",
+			"organizationId": 1,
+			"parentEVPDivisionId": 1,
+			"type": 1
+		},
+		{
+			"abbreviation": "Abbreviation Test 2",
+			"organizationId": 1,
+			"parentEVPDivisionId": 1,
+			"type": 1
+		},
+		{
+			"abbreviation": "Abbreviation Test 3",
+			"organizationId": 1,
+			"parentEVPDivisionId": 1,
+			"type": 1
+		}
+	],
+	"objectDefinitionName": "EVPDivision"
+}

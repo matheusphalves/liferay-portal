@@ -1,0 +1,29 @@
+{
+	"object-entries": [
+		{
+			"amount": 10.0,
+			"currencyCode": "BRL",
+			"date": "2024-01-31 00:00:00.0",
+			"grantType": 1,
+			"fileEntryId": 1,
+			"evpGrantRequestId": 1
+		},
+		{
+			"amount": 20.0,
+			"currencyCode": "BRL",
+			"date": "2024-01-31 00:00:00.0",
+			"grantType": 1,
+			"fileEntryId": 2,
+			"evpGrantRequestId": 2
+		},
+		{
+			"amount": 30.0,
+			"currencyCode": "BRL",
+			"date": "2024-01-31 00:00:00.0",
+			"grantType": 1,
+			"fileEntryId": 3,
+			"evpGrantRequestId": 3
+		}
+	],
+	"objectDefinitionName": "EVPGrantTransaction"
+}

@@ -1,0 +1,29 @@
+{
+	"object-entries": [
+		{
+			"employeeUserId": 1,
+			"employmentType": 1,
+			"hireDate": "2024-01-31 00:00:00.0",
+			"managerUserId": 1,
+			"subsidiaryEVPDivisionId": 1,
+			"ultiproEmployeeId": 1
+		},
+		{
+			"employeeUserId": 2,
+			"employmentType": 2,
+			"hireDate": "2022-01-31 00:00:00.0",
+			"managerUserId": 2,
+			"subsidiaryEVPDivisionId": 2,
+			"ultiproEmployeeId": 2
+		},
+		{
+			"employeeUserId": 3,
+			"employmentType": 3,
+			"hireDate": "2024-01-31 00:00:00.0",
+			"managerUserId": 3,
+			"subsidiaryEVPDivisionId": 3,
+			"ultiproEmployeeId": 3
+		}
+	],
+	"objectDefinitionName": "EVPEmployee"
+}

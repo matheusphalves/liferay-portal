@@ -1,0 +1,29 @@
+{
+	"object-entries": [
+		{
+			"description": "Sample description 1",
+			"nonprofitType": 1,
+			"organizationId": 1,
+			"shared": true,
+			"subsidiaryGroupId": 1,
+			"verified": false
+		},
+		{
+			"description": "Sample description 2",
+			"nonprofitType": 1,
+			"organizationId": 2,
+			"shared": true,
+			"subsidiaryGroupId": 2,
+			"verified": true
+		},
+		{
+			"description": "Sample description 3",
+			"nonprofitType": 2,
+			"organizationId": 3,
+			"shared": false,
+			"subsidiaryGroupId": 3,
+			"verified": false
+		}
+	],
+	"objectDefinitionName": "EVPRequestOrganization"
+}
