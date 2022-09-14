@@ -410,24 +410,6 @@
 			"type": "Long"
 		},
 		{
-			"DBType": "Long",
-			"businessType": "LongInteger",
-			"defaultValue": "",
-			"indexed": true,
-			"indexedAsKeyword": false,
-			"indexedLanguageId": "",
-			"label": {
-				"en_US": "Manager User Id"
-			},
-			"name": "managerUserId",
-			"objectFieldSettings": [
-			],
-			"required": true,
-			"state": false,
-			"system": false,
-			"type": "Long"
-		},
-		{
 			"DBType": "Date",
 			"businessType": "Date",
 			"defaultValue": "",
@@ -600,24 +582,6 @@
 			"state": false,
 			"system": false,
 			"type": "Integer"
-		},
-		{
-			"DBType": "Long",
-			"businessType": "LongInteger",
-			"defaultValue": "",
-			"indexed": true,
-			"indexedAsKeyword": false,
-			"indexedLanguageId": "",
-			"label": {
-				"en_US": "Request Organization Address Id"
-			},
-			"name": "requestOrganizationAddressId",
-			"objectFieldSettings": [
-			],
-			"required": true,
-			"state": false,
-			"system": false,
-			"type": "Long"
 		},
 		{
 			"DBType": "Long",

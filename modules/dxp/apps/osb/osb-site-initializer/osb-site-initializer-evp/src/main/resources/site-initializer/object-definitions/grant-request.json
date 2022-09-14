@@ -235,24 +235,6 @@
 			"DBType": "Long",
 			"businessType": "LongInteger",
 			"defaultValue": "",
-			"indexed": true,
-			"indexedAsKeyword": false,
-			"indexedLanguageId": "",
-			"label": {
-				"en_US": "Evp Request Organization Id"
-			},
-			"name": "evpRequestOrganizationId",
-			"objectFieldSettings": [
-			],
-			"required": true,
-			"state": false,
-			"system": false,
-			"type": "Long"
-		},
-		{
-			"DBType": "Long",
-			"businessType": "LongInteger",
-			"defaultValue": "",
 			"indexed": false,
 			"indexedAsKeyword": false,
 			"indexedLanguageId": "",

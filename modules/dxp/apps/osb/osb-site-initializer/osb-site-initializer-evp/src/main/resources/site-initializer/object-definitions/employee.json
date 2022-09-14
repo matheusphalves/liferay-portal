@@ -184,24 +184,6 @@
 			"type": "String"
 		},
 		{
-			"DBType": "Long",
-			"businessType": "LongInteger",
-			"defaultValue": "",
-			"indexed": true,
-			"indexedAsKeyword": false,
-			"indexedLanguageId": "",
-			"label": {
-				"en_US": "Subsidiary EVP Division Id"
-			},
-			"name": "subsidiaryEVPDivisionId",
-			"objectFieldSettings": [
-			],
-			"required": true,
-			"state": false,
-			"system": false,
-			"type": "Long"
-		},
-		{
 			"DBType": "String",
 			"businessType": "Text",
 			"defaultValue": "",
